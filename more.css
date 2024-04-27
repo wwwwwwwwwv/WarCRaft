@@ -101,10 +101,14 @@ font-weight: 100;
   text-shadow: 0px 0px 20px  blue;
 }
 
-@media (max-width:900px){
+@media (max-width:800px){
+
+ .warmot img{
+    width: 700px;
+  }
 
 .mored{
-  height: 720vh;
+  height: 730vh;
 }
 
 }
